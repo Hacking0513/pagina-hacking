@@ -353,7 +353,7 @@ aside .indice a {
 	}
 
 	.contenedor-imagen {
-		height: 50vh;
+		height: 100%;
 	}
 
 	main .contenedor {
@@ -429,7 +429,7 @@ aside .indice a {
 		width: 100%;
 	}
 
-	.navbar a {
+	.navbar2 a {
 		width: auto;
 		flex: 1;
 	}
